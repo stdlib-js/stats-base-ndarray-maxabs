@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`6fc31e1`](https://github.com/stdlib-js/stdlib/commit/6fc31e1057e63858264b0738dc235ca05ca9448b) - **docs:** update return value descriptions _(by Philipp Burckhardt)_
 -   [`4d492dd`](https://github.com/stdlib-js/stdlib/commit/4d492dd05272453887a4e00cb83fa3c17cb193db) - **feat:** add `stats/base/ndarray/maxabs` [(#7835)](https://github.com/stdlib-js/stdlib/pull/7835) _(by Gururaj Gurram)_
 
 </details>
@@ -34,9 +35,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Gururaj Gurram
+-   Philipp Burckhardt
 
 </section>
 
